@@ -1,19 +1,18 @@
 import time
-import random # Utilizado para generar datos en pruebas empíricas
+import random 
 
 # --- Información del Trabajo Práctico ---
 # Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación a Distancia
 # Asignatura: Programación I
 # Trabajo Práctico: Análisis de Algoritmos
-# Alumno: [Tu Nombre Completo Aquí]
-# Fecha: 21 de Mayo de 2025
+
 
 print("Estimado profesor/a, presento a continuación mi Trabajo Práctico sobre Análisis de Algoritmos.")
 print("El objetivo es determinar la complejidad temporal de diversos algoritmos utilizando la notación Big-O,")
 print("así como comparar la eficiencia de distintas soluciones y observar su comportamiento empírico.")
 print("-" * 70)
 
-# --- Implementaciones de los Algoritmos (para las pruebas empíricas) ---
+
 
 def suma_numeros_ej1(n):
     """Calcula la suma de los primeros n números de forma iterativa."""
